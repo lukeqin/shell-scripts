@@ -241,6 +241,11 @@ re)
 	8) xx.sh du duplicate(%) sleeptime(seconds)
 		xx.sh du 2 3
 	9) xx.sh re reorder(%) sleeptime(seconds)
-		xx.sh re 1 3"
+		xx.sh re 1 3
+
+	tc docs:
+	- https://man7.org/linux/man-pages/man8/tc.8.html
+	- https://tonydeng.github.io/sdn-handbook/linux/tc.html"
+
 	;;
 esac
